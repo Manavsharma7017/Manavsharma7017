@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manavsharma7017
-- 👀 I’m interested in wed2 and wed3
+- 👀 I’m interested in web2 and web3
 - 🌱 I’m currently learning c++,Dsa,web development 
 - 📫 How to reach me manavsharma0603@gmail.com
 
