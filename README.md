@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manavsharma7017
 - 👀 I’m interested in web2 and web3
 - 🌱 I’m currently learning c++,Dsa,web development 
-- 📫 How to reach me manavsharma0603@gmail.com
+- 📫 How to reach me manavsharma7017@gmail.com
 
 <!---
 Manavsharma7017/Manavsharma7017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
