@@ -1,7 +1,6 @@
 #About me
 - 👋 Hi, I’m @Manavsharma7017
-- 👀 I’m interested in web2 and web3
-🔭 I’m currently working on web 2<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with web 3<br>🌱 I’m currently learning Mern, postgresql, AWS, Docker<br>💬 Ask me about<br>⚡ Fun fact
+- 👀 I’m trying to become a Cracked dev
 
 
 ## 🌐 Socials:
